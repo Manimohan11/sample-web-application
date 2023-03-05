@@ -1,5 +1,6 @@
-FROM tomcat 
-WORKDIR webapps 
+FROM tomcat
+RUN mv webapps webapp2
+RUN mv webapps.dist webapps
+WORKDIR webapps
 COPY target/WebApp.war .
 RUN rm -rf ROOT && mv WebApp.war ROOT.war
-ENTRYPOINT ["sh", "/usr/local/tomcat/bin/startup.sh"]
