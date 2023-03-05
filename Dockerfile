@@ -1,4 +1,4 @@
-FROM tomcat:8
+FROM tomcat
 RUN mv webapps webapp2
 RUN mv webapps.dist webapps
 WORKDIR webapps
