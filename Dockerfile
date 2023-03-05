@@ -1,5 +1,3 @@
-FROM tomcat
-RUN mv webapps webapp
-RUN mv webapps.dist webapps
+FROM tomcat:8
 # Take the war and copy to webapps of tomcat
 COPY target/WebApp.war /usr/local/tomcat/webapps/
