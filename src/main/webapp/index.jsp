@@ -72,7 +72,7 @@ Founded in 2008 and headquartered in CA, USA, we are an IT consulting company op
 From a largely bespoke, homegrown MACH-based commerce solution to a cloud-based, scalable and agile technology landscape, we have enabled our clients to connect to their customers seamlessly in an increasingly digital yet personalized way!
 
 We provide consistent cutting-edge technology and are committed to forging long-term relationships with our clients.</p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            <p><a class="btn btn-default" href="https://www.nulogic.io/about-us/" role="button">View details &raquo;</a></p>
         </div>
     </div>
     <div class="row">
