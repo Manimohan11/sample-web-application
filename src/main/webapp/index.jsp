@@ -78,7 +78,7 @@ We provide consistent cutting-edge technology and are committed to forging long-
     <div class="row">
         <div class="col-md-4">
             <h2><strong>Partners</strong></h2>
-            <p><strong>By combining local networks, global reach, and deep industry expertise, we engage with entrepreneurs and industry leaders in all key markets.</strong></p><br>
+            <p>By combining local networks, global reach, and deep industry expertise, we engage with entrepreneurs and industry leaders in all key markets.</p><br>
             <p><a class="btn btn-default" href="https://www.nulogic.io/partners/" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
