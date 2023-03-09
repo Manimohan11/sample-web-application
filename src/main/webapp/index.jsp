@@ -31,7 +31,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">Devops-training</a>
+            <a class="navbar-brand" href="#">nulogic.io</a>
         </div>
         <div class="navbar-collapse collapse">
             <form class="navbar-form navbar-right" role="form">
@@ -50,8 +50,8 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h1>Hello</h1>
-        <p>This is from Dev Environment </p>
+        <h1>nulogic</h1>
+        <p>INFITE INNOVATION </p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
 </div>
@@ -60,8 +60,18 @@
     <!-- Example row of columns -->
      <div class="row">
         <div class="col-md-4">
-            <h2>Devops</h2>
-            <p>DevOps is the combination of cultural philosophies, practices, and tools that increases an organization's ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes.</p>
+            <h2>About us</h2>
+            <p>
+Our Story
+More like what we are—we are reliable, qualitative & supportive.
+
+NULogic (Formally Known as NU Technology Inc) is one of the leading digital transformation companies that combines software expertise and industry intelligence.
+
+Founded in 2008 and headquartered in CA, USA, we are an IT consulting company operating from over seven countries. We are a global system integrator with over 15+ years of expertise in digital commerce. We work with some of the biggest international retailers in the US, EU, and LATAM markets!
+
+From a largely bespoke, homegrown MACH-based commerce solution to a cloud-based, scalable and agile technology landscape, we have enabled our clients to connect to their customers seamlessly in an increasingly digital yet personalized way!
+
+We provide consistent cutting-edge technology and are committed to forging long-term relationships with our clients.</p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
     </div>
