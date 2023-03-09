@@ -51,9 +51,8 @@
 <div class="jumbotron">
     <div class="container">
         <h1>nulogic</h1>
-        <img src="images/nulogic.jpg" height="100px" width="200px" alt="nulogic">
         <p>INFINITE INNOVATION</p>
-        <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
+        <img src="images/nulogic.jpg" height="75px" width="200px" alt="nulogic">
     </div>
 </div>
 
@@ -62,6 +61,7 @@
      <div class="row">
         <div class="col-md-4">
             <h2>About us</h2>
+            <p><strong>Shape your future with NULogic</strong><br>
             <p><strong>Our Story</strong><br>
 More like what we are reliable, qualitative & supportive.
 
