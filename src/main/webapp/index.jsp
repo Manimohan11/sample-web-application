@@ -96,7 +96,8 @@ We provide consistent cutting-edge technology and are committed to forging long-
     <hr>
 
     <footer>
-        <p>&copy; Company 2014</p>
+        <p>&copy; Company 2023</p>
+        <a href="https://www.nulogic.io/">nulogic.io</a>
     </footer>
 </div> <!-- /container -->
 
