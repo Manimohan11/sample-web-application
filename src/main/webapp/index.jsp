@@ -61,7 +61,7 @@
      <div class="row">
         <div class="col-md-4">
             <h2>About us</h2>
-            <p><strong>Shape your future with NULogic</strong><br>
+            <h3><p><strong>Shape your future with NULogic</strong><br></h3>
             <p><strong>Our Story</strong><br>
 More like what we are reliable, qualitative & supportive.
 
