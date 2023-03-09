@@ -51,6 +51,7 @@
 <div class="jumbotron">
     <div class="container">
         <h1>nulogic</h1>
+        <img src="images/nutaining.png" height="100px" width="100px" alt="nutraining">
         <p>INFINITE INNOVATION</p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
@@ -61,8 +62,8 @@
      <div class="row">
         <div class="col-md-4">
             <h2>About us</h2>
-            <p>Our Story
-More like what we are—we are reliable, qualitative & supportive.
+            <p><strong>Our Story</strong><br>
+More like what we are reliable, qualitative & supportive.
 
 NULogic (Formally Known as NU Technology Inc) is one of the leading digital transformation companies that combines software expertise and industry intelligence.
 
