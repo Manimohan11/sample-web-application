@@ -51,7 +51,7 @@
 <div class="jumbotron">
     <div class="container">
         <h1>nulogic</h1>
-        <img src="images/nutaining.png" height="100px" width="100px" alt="nutraining">
+        <img src="images/nutraining.png" height="100px" width="100px" alt="nutraining">
         <p>INFINITE INNOVATION</p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
