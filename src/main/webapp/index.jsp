@@ -82,9 +82,10 @@ We provide consistent cutting-edge technology and are committed to forging long-
             <p><a class="btn btn-default" href="https://www.nulogic.io/partners/" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
-            <h2>Maven</h2>
-            <p>Maven is a build automation tool used primarily for Java projects. Maven can also be used to build and manage projects written in C#, Ruby, Scala, and other languages.</p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            <h2><strong>Contact Us</strong></h2>
+            <p><h3>Hi There!
+            Questions? Shoot Them At Us!</h3></p>
+            <p><a class="btn btn-default" href="https://www.nulogic.io/contact-us/" role="button">View details &raquo;</a></p>
         </div>
 <!--         <div class="col-md-4">
             <h2>Docker</h2>
