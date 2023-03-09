@@ -77,8 +77,8 @@ We provide consistent cutting-edge technology and are committed to forging long-
     </div>
     <div class="row">
         <div class="col-md-4">
-            <h2>Jenkins</h2>
-            <p>Jenkins is a free and open source automation server. Jenkins helps to automate the non-human part of the software development process, with continuous integration and facilitating technical aspects of continuous delivery</p>
+            <h2>Partners</h2>
+            <p><strong>By combining local networks, global reach, and deep industry expertise, we engage with entrepreneurs and industry leaders in all key markets.</strong></p><br>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
