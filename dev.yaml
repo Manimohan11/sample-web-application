@@ -1,6 +1,6 @@
 - hosts: all
   become: true
-    docker_container:
+   docker_container:
       name: myapplication
       image: someuser/appimage
       state: started
