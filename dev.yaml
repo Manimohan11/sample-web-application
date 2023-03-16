@@ -1,7 +1,9 @@
 - hosts: all
   become: true
-  vars:
-    container_count: 1
-    default_container_name: docker
-    default_container_image: tomcat
-    default_container_command: docker run -d --name tom3 -p 8100:8080 tomcat
+  docker_container:
+    name: myapplication
+    image: someuser/appimage
+    state: started
+    restart: no
+    ports:
+     - "8080:9000"
