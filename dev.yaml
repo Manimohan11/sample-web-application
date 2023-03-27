@@ -1,9 +1,0 @@
-- hosts: all
-  become: true
-   docker_container:
-      name: myapplication
-      image: someuser/appimage
-      state: started
-      restart: no
-      ports:
-       - "8080:9000"
